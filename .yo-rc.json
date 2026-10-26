@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "quick-links-grid",
+    "libraryId": "18828691-7a9a-4787-af34-d8579c0e4f10",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "quick-links-grid",
+    "solutionShortDescription": "quick-links-grid description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "quick-links-grid-client-side-solution",
+    "id": "18828691-7a9a-4787-af34-d8579c0e4f10",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "quick-links-grid description"
+      },
+      "longDescription": {
+        "default": "quick-links-grid description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "quick-links-grid Feature",
+        "description": "The feature that activates elements of the quick-links-grid solution.",
+        "id": "236b3934-ede4-40b4-b84c-cc376d4544c5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/quick-links-grid.sppkg"
+  }
+}
